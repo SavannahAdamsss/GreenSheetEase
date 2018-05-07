@@ -51,13 +51,17 @@
 * Phone
 * Billing Information
 * Submission Button
-* What technologies do you plan to use?:
+
+# What technologies do you plan to use?:
+
 * React Native
+* Swift
 * HTML
-* CSS
+* CSS Grid
 * JavaScript
 * Cypress
 * Knex
 * Express
+* Postgres
 * Company API
 * Company Database
