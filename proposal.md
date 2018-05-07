@@ -61,6 +61,8 @@
 * CSS Grid
 * JavaScript
 * Node.js
+* Surge
+* Heroku
 * Cypress
 * Knex
 * Express
