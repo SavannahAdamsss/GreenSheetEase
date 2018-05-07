@@ -53,7 +53,7 @@
 * Billing Information
 * Submission Button
 
-## What technologies do you plan to use?
+## What technologies do you plan to use
 
 * React Native
 * Swift
