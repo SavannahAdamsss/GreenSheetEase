@@ -1,19 +1,20 @@
-# Project proposal:
+# Project proposal
+
 * Green Sheet Ease
 
 * Project Description:
 
 * A mobile app that allows trade workers to update client information, job site address, job description, materials used, daily hours, and work truck mileage.
 
-# Problem statement:
+## Problem statement
 
 * My father, who is the CEO of an electrical contracting company, often has a difficult time getting job information from his employees in a timely fashion. The company currently functions on paper logs called Green Sheets to track employee time, materials used, gas milaged, job description, client information, and job address. Often, this paper system allows for error, because the sheets are misplaced, turned in late, or not detailed enough, as in materials missing, hours not tracked properly, or missing client information.
 
-# How will your project solve this problem?:
+## How will your project solve this problem
 
 * The Green Sheet Ease App allows for immediate submission of any necessary information for billing, payroll, job management, and inventory by creating an easy user experience with timely results.
 
-# Map the user experience:
+## Map the user experience
 
 * The Green Sheet Ease app features will include:
 
@@ -52,13 +53,14 @@
 * Billing Information
 * Submission Button
 
-# What technologies do you plan to use?:
+## What technologies do you plan to use?
 
 * React Native
 * Swift
 * HTML
 * CSS Grid
 * JavaScript
+* Node.js
 * Cypress
 * Knex
 * Express
